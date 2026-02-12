@@ -1,10 +1,8 @@
+---
+---
+
 @import "{{ site.theme }}";
-@import "normalize";
-@import "fonts";
-@import "variables";
-@import "mixins";
-@import "rouge-dracula.scss";
-@import "colorspaces.scss";
+
 
 body {
   padding:0px 0 20px 0px;
