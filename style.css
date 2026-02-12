@@ -1,19 +1,4 @@
 ---
 ---
 
-body {
-  background: #282a36;
-  color: #f8f8f2;
-  font-family: Arial, sans-serif;
-  max-width: 800px;
-  margin: auto;
-  padding: 40px;
-}
-
-h1, h2, h3 {
-  color: #50fa7b;
-}
-
-a {
-  color: #8be9fd;
-}
+@import "jekyll-theme-primer";
