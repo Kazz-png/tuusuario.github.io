@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # 📖 APUNTES COMPLETOS - TÓPICOS DE PROGRAMACIÓN
 ## Unidad 1: Interfaces Gráficas con Java Swing
 
